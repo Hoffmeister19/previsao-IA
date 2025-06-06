@@ -1,0 +1,16 @@
+X;;;;;Y;;;
+num_cartoes;num_contas;investimento_mensal;;;score_credito;;;
+9;6;660;;;poor;;;
+9;1;580;;;good;;;
+10;3;612;;;standard;;TREINO;
+10;3;312;;;standard;;;
+5;2;424;;;good;;;
+7;3;538;;;poor;;;
+6;2;143;;;standard;;;
+5;3;396;;;standard;;;
+x_treino;;;;;y_treino;;;
+;;;;;;;;
+;;;;;Gabarito;arvore;KNN;
+2;2;778;;;good;good;good;TESTE
+8;6;796;;;poor;poor;standard;
+x_teste;;;;;y_teste;;;
