@@ -42,7 +42,7 @@ Jupyter Notebook – Ambiente interativo para desenvolvimento e análise.
 
 `jupyter notebook`
 
-5. Abra o arquivo inicial.ipynb e execute as células para reproduzir a análise e as previsões.
+5. Abra o arquivo `inicial.ipynb` e execute as células para reproduzir a análise e as previsões.
 
 ---
 
